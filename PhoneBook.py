@@ -50,4 +50,3 @@ class PhoneBook:
 
         elif (choice == 3) :
             online = False
-
